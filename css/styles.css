@@ -1,6 +1,11 @@
-body{
+body {
   background-image: url(https://cdn.wallpapersafari.com/94/74/ZxWTsB.jpg);
   text-align: center;
+  font-family: Georgia;
+}
+p{
+  font-size: 32px;
+  padding: 10px;
 }
 img {
     border: 4px solid lightcoral;
